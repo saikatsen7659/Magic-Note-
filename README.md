@@ -1,1 +1,1 @@
-# Magic-Note-
+# Magic-Note-App
